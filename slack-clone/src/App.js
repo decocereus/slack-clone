@@ -1,6 +1,8 @@
 import React from "react";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
-import Header from "./Header";
+import styled from "styled-components";
+import Header from "./components/Header";
+import Sidebar from "./components/Sidebar";
 import "./App.css";
 
 function App() {
@@ -8,11 +10,15 @@ function App() {
     <div className="App">
       <Router>
         <>
-          <Switch>
-            <Route>
-              <Header />
-            </Route>
-          </Switch>
+          <Header />
+          <AppBody>
+            <Sidebar />
+            <Switch>
+              <Route path="/" exact>
+                {/* Chat */}
+              </Route>
+            </Switch>
+          </AppBody>
         </>
       </Router>
     </div>
@@ -20,3 +26,5 @@ function App() {
 }
 
 export default App;
+
+const AppBody = styled.div``;
