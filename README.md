@@ -36,6 +36,6 @@ This is an example of how to list things you need to use the software and how to
 <!-- CONTACT -->
 ## Contact
 
-Amartya Singh - [@linkedIn_handle](https://www.linkedin.com/in/amartyasingh07/) - LinkedIn
+Amartya Singh - [@LinkedIn](https://www.linkedin.com/in/amartyasingh07/) 
 
 Project Link: [https://github.com/decocereus/slack-clone](https://github.com/decocereus/slack-clone)
