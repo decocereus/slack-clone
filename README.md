@@ -1,4 +1,5 @@
-
+## Application can be accessed at 
+https://slack-clone-6c09b.web.app/
 <!-- GETTING STARTED -->
 ## Getting Started
 
@@ -16,7 +17,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/decocereus/slack-clone.git
    ```
 2. Install NPM packages
    ```sh
@@ -26,16 +27,6 @@ This is an example of how to list things you need to use the software and how to
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@linkedIn_handle](https://www.linkedin.com/in/amartyasingh07/) - LinkedIn
+Amartya Singh - [@linkedIn_handle](https://www.linkedin.com/in/amartyasingh07/) - LinkedIn
 
 Project Link: [https://github.com/decocereus/slack-clone](https://github.com/decocereus/slack-clone)
-
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo/graphs/contributors
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/github_username
