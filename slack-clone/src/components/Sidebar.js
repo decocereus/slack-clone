@@ -24,7 +24,7 @@ function Sidebar() {
     <SidebarContainer>
       <SidebarHeader>
         <SidebarInfo>
-          <h2>Slack hq</h2>
+          <h2>Slakc HQ</h2>
           <h3>
             <FiberManualRecordIcon />
             {user.displayName}

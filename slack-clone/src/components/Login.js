@@ -22,7 +22,11 @@ function Login() {
         <Button onClick={signIn}>Sign in with Google</Button>
         <footer>
           Built by{" "}
-          <a href="https://www.linkedin.com/in/amartyasingh07/">
+          <a
+            href="https://www.linkedin.com/in/amartyasingh07/"
+            target="_blank"
+            rel="noreferrer"
+          >
             Amartya Singh
           </a>
         </footer>
