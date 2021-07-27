@@ -60,6 +60,7 @@ const SidebarContainer = styled.div`
   max-width: 260px;
   margin-top: 60px;
   background-color: var(--slack-color);
+  overflow-y: scroll;
   > hr {
     margin-top: 10px;
     margin-bottom: 10px;
